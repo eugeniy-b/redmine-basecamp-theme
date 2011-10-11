@@ -16,7 +16,7 @@ a:hover { text-decoration: underline; }
 a:hover, a:active { color: #2A5685; }
 
 #header, #top-menu { margin: 0; }
-#header { background-color: #2D2D2D; padding: 8px 8px 0 8px; height: 4.5em; font-family: Verdana; font-size: 12px; }
+#header { background-color: #2D2D2D; padding: 8px 8px 0 8px; height: 4.5em; font-family: Verdana; font-size: 12px; font-weight: bold; }
 #header h1 { margin: 0 24px; }
 #header #quick-search { margin: 0 24px; }
 #top-menu { background-color: #000; font-size: 10px; position: relative; padding: 0; height: 21px }
