@@ -58,7 +58,7 @@ div.splitcontentleft h2 { background-color: transparent; padding: 0; margin: 20p
 
 /* Menu */
 #main-menu { margin: 0 24px; }
-#main-menu li a { font-weight: normal; padding:4px 8px 6px; }
+#main-menu li a { font-weight: bold; padding:4px 8px 6px; }
 #main-menu li a:hover { background: #999; text-decoration: none; }
 #main-menu li a.selected, #main-menu li a.selected:hover { color: #111; font-weight:bold; }
 
